@@ -11,22 +11,43 @@ function App() {
   return (
       
 
-    <div>
+    <>
 
       <header>
-        <select id="language-select" onChange={changeLanguage} value={i18n.language}>
+      <div className="container">
+      <h1>Wishbone+Partners</h1>
+      <ul>
+        <li><a href="#">{t('Projects')}</a></li>
+        <li><a href="#">{t('About')}</a></li>
+        <li><a href="#">{t('News')}</a></li>
+        <li><a href="#">{t('Team')}</a></li>
+        <li><a href="#">{t('Contact')}</a></li>
+        <li><select id="language-select" onChange={changeLanguage} value={i18n.language}>
         <option value="uz">🇺🇿 Uzbek</option>
         <option value="en">🇺🇸 English</option>
-      </select>
-      </header>
-      <h1>{t('welcome')}</h1>
-      <p>{t('description')}</p>
-      <p>{t('longtext')}</p>
-      <p>{t('gap')}</p>
+      </select></li>
+      </ul>
 
-      <label htmlFor="language-select">🌐 Select Language: </label>
       
-    </div>
+      </div>
+      </header>
+      <main>
+        <div className="container">
+          <div className="left">
+          <h3>Wishbone+Partners</h3>
+          <h1>The home of beautiful architecture.</h1>
+          <p>{t('main-longtext')}</p>
+          <button>Read More</button>
+          </div>
+
+          <div className="hero-img">
+         <img src="https://i.ibb.co/yF1731CL/IMAGE.png" />
+        </div>
+        </div>
+        
+      </main>
+                
+    </>
   );
 }
 

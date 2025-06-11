@@ -3,5 +3,11 @@
   "description": "This is an i18n example.",
   "longtext":"Welcome to our multilingual website! Here you can choose your language and easily access all the information in the language you feel most comfortable with.",
   "comment":"comment",
-  "gap":"Roman XIX asr voqealarini oʻz ichiga olgan. Murakkab tarixiy hodisalar romanning bosh qahramonlari Otabek va Kumushbibining fojiaviy sevgi qissasi atrofida ifodalangan"
+   "Projects":"Projects",
+  "About":"About",
+  "News":"News",
+  "Team":"Team",
+  "Contact":"Contact",
+  " Get Template":"Get Template",
+  "main-longtext":"We are an architecture firm with a focus on beautiful but functional design. At its heart, we believe design is about usability and accessibility — these are the guiding principles for our work. Read more about our previous projects, our process and our team below."
 }

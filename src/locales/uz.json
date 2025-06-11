@@ -3,5 +3,13 @@
   "description": "Bu i18n namunasi.",
   "longtext":"Ko‘p tilli veb-saytimizga xush kelibsiz! Siz bu yerda o‘z tilingizni tanlab, o‘zingizga qulay bo‘lgan tilda barcha ma’lumotlardan bemalol foydalanishingiz mumkin.",
   "comment":"izoh",
-  "gap":"Roman XIX asr voqealarini oʻz ichiga olgan. Murakkab tarixiy hodisalar romanning bosh qahramonlari Otabek va Kumushbibining fojiaviy sevgi qissasi atrofida ifodalangan"
+  "gap":"Roman XIX asr voqealarini oʻz ichiga olgan. Murakkab tarixiy hodisalar romanning bosh qahramonlari Otabek va Kumushbibining fojiaviy sevgi qissasi atrofida ifodalangan",
+  "Projects":"Loyihalar",
+  "About":"Biz haqimizda",
+  "News":"Yangliklar",
+  "Team":"Jamoa",
+  "Contact":"Kontakt",
+  " Get Template":"Shablonlar",
+  "main-longtext":"Biz chiroyli, ammo funktsional dizaynga e'tibor qaratadigan arxitektura firmamiz. Aslini olganda, biz dizayn qulaylik va qulaylik bilan bog'liq deb hisoblaymiz - bu bizning ishimiz uchun asosiy tamoyillar. Oldingi loyihalarimiz, jarayonimiz va jamoamiz haqida quyida o‘qing."
+  
 }
